@@ -1,1 +1,1139 @@
+{
+  "name": "Study Guide Mind Map",
+  "children": [
+    {
+      "name": "2025 Study Guide",
+      "children": [
+        {
+          "name": "1 Introduction",
+          "children": []
+        },
+        {
+          "name": "2 Subject SA3 – background and contents",
+          "children": []
+        },
+        {
+          "name": "3 Syllabus",
+          "children": []
+        },
+        {
+          "name": "4 Core Reading",
+          "children": []
+        },
+        {
+          "name": "5 Skills and assessment",
+          "children": []
+        },
+        {
+          "name": "6 ActEd study support",
+          "children": []
+        },
+        {
+          "name": "7 General information and support",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "1 Introduction to Subject SA3",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Advice to help you pass Subject SA3",
+          "children": []
+        },
+        {
+          "name": "2 Links with Subjects SP7 and SP8",
+          "children": []
+        },
+        {
+          "name": "3 The actuarial control cycle",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "2 The general insurance market",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Insurance companies",
+          "children": []
+        },
+        {
+          "name": "2 Lloyd’s - introduction",
+          "children": []
+        },
+        {
+          "name": "3 Self-retention groups",
+          "children": []
+        },
+        {
+          "name": "4 The London Market",
+          "children": []
+        },
+        {
+          "name": "5 Acquisition of business",
+          "children": []
+        },
+        {
+          "name": "6 Administration of business for insurance companies",
+          "children": []
+        },
+        {
+          "name": "7 Lloyd’s - Annual Venture and RITC",
+          "children": []
+        },
+        {
+          "name": "8 Lloyd’s - subscription market",
+          "children": []
+        },
+        {
+          "name": "9 Annuities in non-life insurance (Periodic Payment Orders)",
+          "children": []
+        },
+        {
+          "name": "10 Principal terms",
+          "children": []
+        },
+        {
+          "name": "Chapter 2 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 2 Summary continued",
+          "children": []
+        },
+        {
+          "name": "Chapter 2 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 2 Solutions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "3 Taxation",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Taxation of a proprietary general insurer",
+          "children": []
+        },
+        {
+          "name": "2 Investment return",
+          "children": []
+        },
+        {
+          "name": "3 The underwriting result and provisions",
+          "children": []
+        },
+        {
+          "name": "4 Other considerations for proprietary insurers",
+          "children": []
+        },
+        {
+          "name": "5 Taxation of mutual insurers",
+          "children": []
+        },
+        {
+          "name": "6 Taxation within the Lloyd’s market",
+          "children": []
+        },
+        {
+          "name": "7 Other taxation",
+          "children": []
+        },
+        {
+          "name": "Chapter 3 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 3 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 3 Solutions",
+          "children": []
+        },
+        {
+          "name": "End of Part 1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "4 Legislation",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Regulatory frameworks",
+          "children": []
+        },
+        {
+          "name": "2 Supervision in the UK prior to 2016",
+          "children": []
+        },
+        {
+          "name": "3 Solvency II",
+          "children": []
+        },
+        {
+          "name": "4 Regulation at Lloyd’s",
+          "children": []
+        },
+        {
+          "name": "5 Further reading",
+          "children": []
+        },
+        {
+          "name": "6 Consumer protection",
+          "children": []
+        },
+        {
+          "name": "7 Principal terms",
+          "children": []
+        },
+        {
+          "name": "Chapter 4 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 4 Summary continued",
+          "children": []
+        },
+        {
+          "name": "Chapter 4 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 4 Solutions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "5 Professional guidance",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Standards issued by the IAA and AAE",
+          "children": []
+        },
+        {
+          "name": "2 Technical standards applicable to UK work",
+          "children": []
+        },
+        {
+          "name": "3 Technical Actuarial Standards",
+          "children": []
+        },
+        {
+          "name": "4 The Actuaries’ Code",
+          "children": []
+        },
+        {
+          "name": "5 Other professional standards and guidance",
+          "children": []
+        },
+        {
+          "name": "Chapter 5 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 5 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 5 Solutions",
+          "children": []
+        },
+        {
+          "name": "End of Part 2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "6 Pricing large commercial risks",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 What is a ‘large risk’?",
+          "children": []
+        },
+        {
+          "name": "2 Operating environment and professionalism issues",
+          "children": []
+        },
+        {
+          "name": "3 Understanding the client",
+          "children": []
+        },
+        {
+          "name": "4 Risk appetite and control structures",
+          "children": []
+        },
+        {
+          "name": "5 Understanding the coverage",
+          "children": []
+        },
+        {
+          "name": "6 Data collection and manipulation",
+          "children": []
+        },
+        {
+          "name": "7 Technical rate calculations",
+          "children": []
+        },
+        {
+          "name": "8 Technical methods",
+          "children": []
+        },
+        {
+          "name": "9 Negotiation",
+          "children": []
+        },
+        {
+          "name": "10 Portfolio issues",
+          "children": []
+        },
+        {
+          "name": "Chapter 6 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 6 Summary continued",
+          "children": []
+        },
+        {
+          "name": "Chapter 6 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 6 Solutions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "7 Catastrophe models",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Overview of catastrophe models",
+          "children": []
+        },
+        {
+          "name": "2 Key perils modelled",
+          "children": []
+        },
+        {
+          "name": "3 Non-modelled catastrophes",
+          "children": []
+        },
+        {
+          "name": "4 Uses of catastrophe models",
+          "children": []
+        },
+        {
+          "name": "5 Using and adapting the output of catastrophe models",
+          "children": []
+        },
+        {
+          "name": "6 Proprietary model providers",
+          "children": []
+        },
+        {
+          "name": "Chapter 7 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 7 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 7 Solutions",
+          "children": []
+        },
+        {
+          "name": "End of Part 3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "8 Return on capital",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Incorporation of capital costs",
+          "children": []
+        },
+        {
+          "name": "2 Introduction to the capital allocation problem",
+          "children": []
+        },
+        {
+          "name": "3 Practical challenges",
+          "children": []
+        },
+        {
+          "name": "Chapter 8 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 8 Summary continued",
+          "children": []
+        },
+        {
+          "name": "Chapter 8 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 8 Solutions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "9 Valuation bases",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Financial statements",
+          "children": []
+        },
+        {
+          "name": "2 Statutory returns",
+          "children": []
+        },
+        {
+          "name": "3 Management accounts",
+          "children": []
+        },
+        {
+          "name": "4 Discounting",
+          "children": []
+        },
+        {
+          "name": "5 IFRS 17",
+          "children": []
+        },
+        {
+          "name": "6 Principal terms",
+          "children": []
+        },
+        {
+          "name": "Chapter 9 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 9 Summary continued",
+          "children": []
+        },
+        {
+          "name": "Chapter 9 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 9 Solutions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "10 Financial planning",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Modelling",
+          "children": []
+        },
+        {
+          "name": "2 The financial plan",
+          "children": []
+        },
+        {
+          "name": "3 Modelling assumptions",
+          "children": []
+        },
+        {
+          "name": "4 Deterministic modelling",
+          "children": []
+        },
+        {
+          "name": "5 Stress and scenario modelling",
+          "children": []
+        },
+        {
+          "name": "6 Stochastic modelling",
+          "children": []
+        },
+        {
+          "name": "7 Dynamic financial analysis (DFA)",
+          "children": []
+        },
+        {
+          "name": "Chapter 10 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 10 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 10 Solutions",
+          "children": []
+        },
+        {
+          "name": "End of Part 4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "11 Latent and disease claims",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Overview of latent claims",
+          "children": []
+        },
+        {
+          "name": "2 Asbestos, pollution and health hazard claims",
+          "children": []
+        },
+        {
+          "name": "3 Dealing with future latent claims",
+          "children": []
+        },
+        {
+          "name": "4 Modelling uncertainty for latent claims",
+          "children": []
+        },
+        {
+          "name": "5 Emerging risks",
+          "children": []
+        },
+        {
+          "name": "6 Challenges to insurance companies",
+          "children": []
+        },
+        {
+          "name": "7 Cyber risk",
+          "children": []
+        },
+        {
+          "name": "8 Climate change",
+          "children": []
+        },
+        {
+          "name": "9 Disruptors",
+          "children": []
+        },
+        {
+          "name": "Chapter 11 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 11 Summary continued",
+          "children": []
+        },
+        {
+          "name": "Chapter 11 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 11 Solutions",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "12 Exit strategies",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Run-off to exhaustion",
+          "children": []
+        },
+        {
+          "name": "2 Reinsurance",
+          "children": []
+        },
+        {
+          "name": "3 Commutations",
+          "children": []
+        },
+        {
+          "name": "4 Novation",
+          "children": []
+        },
+        {
+          "name": "5 Insurance business transfers",
+          "children": []
+        },
+        {
+          "name": "6 Sale of business",
+          "children": []
+        },
+        {
+          "name": "7 Regulatory frameworks for the transfer of liabilities between entities",
+          "children": []
+        },
+        {
+          "name": "8 Principal terms",
+          "children": []
+        },
+        {
+          "name": "Chapter 12 Summary",
+          "children": []
+        },
+        {
+          "name": "Chapter 12 Summary continued",
+          "children": []
+        },
+        {
+          "name": "Chapter 12 Practice Questions",
+          "children": []
+        },
+        {
+          "name": "Chapter 12 Solutions",
+          "children": []
+        },
+        {
+          "name": "End of Part 5",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "13 Problem solving",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 The Subject SA3 examination",
+          "children": []
+        },
+        {
+          "name": "2 How to climb from SP level to SA level",
+          "children": []
+        },
+        {
+          "name": "3 In the exam",
+          "children": []
+        },
+        {
+          "name": "4 Example question",
+          "children": []
+        },
+        {
+          "name": "5 Planning an answer",
+          "children": []
+        },
+        {
+          "name": "6 Example solution",
+          "children": []
+        },
+        {
+          "name": "7 What should I do next?",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "14 Case Study 1 – Reserving",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Scenario",
+          "children": []
+        },
+        {
+          "name": "2 Initial thoughts",
+          "children": []
+        },
+        {
+          "name": "3 Planning an answer",
+          "children": []
+        },
+        {
+          "name": "4 Specimen solution",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "15 Case study 2 – Reinsurance",
+      "children": [
+        {
+          "name": "0 Scenario",
+          "children": []
+        },
+        {
+          "name": "1 Initial thoughts",
+          "children": []
+        },
+        {
+          "name": "2 Planning an answer",
+          "children": []
+        },
+        {
+          "name": "3 Specimen solution",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "16 Case study 3 – Strategic decision-making",
+      "children": [
+        {
+          "name": "0 Scenario",
+          "children": []
+        },
+        {
+          "name": "1 Initial thoughts",
+          "children": []
+        },
+        {
+          "name": "2 Planning an answer",
+          "children": []
+        },
+        {
+          "name": "3 Specimen solution",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "17 Further reading",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Review of additional reading",
+          "children": []
+        },
+        {
+          "name": "2 Selected papers from GIRO",
+          "children": []
+        },
+        {
+          "name": "3 Useful websites",
+          "children": []
+        },
+        {
+          "name": "End of Part 6",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Principal terms",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Appendix - Decision-making tools",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Nine M analysis",
+          "children": []
+        },
+        {
+          "name": "2 Feasibility study",
+          "children": []
+        },
+        {
+          "name": "3 Product lifecycle",
+          "children": []
+        },
+        {
+          "name": "4 The Boston matrix",
+          "children": []
+        },
+        {
+          "name": "5 Porter’s five forces",
+          "children": []
+        },
+        {
+          "name": "6 PESTLE analysis",
+          "children": []
+        },
+        {
+          "name": "7 SWOT analysis",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Appendix - Insurance products",
+      "children": [
+        {
+          "name": "0 Introduction",
+          "children": []
+        },
+        {
+          "name": "1 Private motor insurance",
+          "children": []
+        },
+        {
+          "name": "2 Other motor insurance",
+          "children": []
+        },
+        {
+          "name": "3 Household insurance",
+          "children": []
+        },
+        {
+          "name": "4 Commercial property insurance",
+          "children": []
+        },
+        {
+          "name": "5 Employers’ liability insurance",
+          "children": []
+        },
+        {
+          "name": "6 Product liability insurance",
+          "children": []
+        },
+        {
+          "name": "7 Professional indemnity insurance",
+          "children": []
+        },
+        {
+          "name": "8 Directors’ and Officers’ (D&O) insurance",
+          "children": []
+        },
+        {
+          "name": "9 Public liability insurance",
+          "children": []
+        },
+        {
+          "name": "10 Environmental / pollution liability insurance",
+          "children": []
+        },
+        {
+          "name": "11 Construction and engineering insurance",
+          "children": []
+        },
+        {
+          "name": "12 Crop insurance",
+          "children": []
+        },
+        {
+          "name": "13 Marine insurance",
+          "children": []
+        },
+        {
+          "name": "14 Aviation insurance",
+          "children": []
+        },
+        {
+          "name": "15 Goods in transit",
+          "children": []
+        },
+        {
+          "name": "16 Personal accident insurance",
+          "children": []
+        },
+        {
+          "name": "17 Extended warranty insurance",
+          "children": []
+        },
+        {
+          "name": "18 Travel insurance",
+          "children": []
+        },
+        {
+          "name": "19 Mortgage indemnity guarantee (MIG) insurance",
+          "children": []
+        },
+        {
+          "name": "20 Financial loss insurance",
+          "children": []
+        },
+        {
+          "name": "21 Cyber insurance",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Appendix Practice Questions",
+      "children": []
+    },
+    {
+      "name": "Appendix Solutions",
+      "children": []
+    },
+    {
+      "name": "Assignment X1 – Questions",
+      "children": [
+        {
+          "name": "X1.1",
+          "children": []
+        },
+        {
+          "name": "X1.2",
+          "children": []
+        },
+        {
+          "name": "X1.3",
+          "children": []
+        },
+        {
+          "name": "X1.4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X2 – Questions",
+      "children": [
+        {
+          "name": "X2.1",
+          "children": []
+        },
+        {
+          "name": "X2.2",
+          "children": []
+        },
+        {
+          "name": "X2.3",
+          "children": []
+        },
+        {
+          "name": "X2.4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X3 – Questions",
+      "children": [
+        {
+          "name": "X3.1",
+          "children": []
+        },
+        {
+          "name": "X3.2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X4 – Questions",
+      "children": [
+        {
+          "name": "X4.1",
+          "children": []
+        },
+        {
+          "name": "X4.2",
+          "children": []
+        },
+        {
+          "name": "X4.3",
+          "children": []
+        },
+        {
+          "name": "X4.4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X5 – Questions",
+      "children": [
+        {
+          "name": "X5.1",
+          "children": []
+        },
+        {
+          "name": "X5.2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X6 – Questions",
+      "children": [
+        {
+          "name": "X6.1",
+          "children": []
+        },
+        {
+          "name": "X6.2",
+          "children": []
+        },
+        {
+          "name": "X6.3",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X1 – Solutions",
+      "children": [
+        {
+          "name": "Solution X1.1",
+          "children": []
+        },
+        {
+          "name": "Solution X1.2",
+          "children": []
+        },
+        {
+          "name": "Solution X1.3",
+          "children": []
+        },
+        {
+          "name": "Solution X1.4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X2 – Solutions",
+      "children": [
+        {
+          "name": "Solution X2.1",
+          "children": []
+        },
+        {
+          "name": "Solution X2.2",
+          "children": []
+        },
+        {
+          "name": "Solution X2.3",
+          "children": []
+        },
+        {
+          "name": "Solution X2.4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X3 – Solutions",
+      "children": [
+        {
+          "name": "Solution X3.1",
+          "children": []
+        },
+        {
+          "name": "Solution X3.2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X4 – Solutions",
+      "children": [
+        {
+          "name": "Solution X4.1",
+          "children": []
+        },
+        {
+          "name": "Solution X4.2",
+          "children": []
+        },
+        {
+          "name": "Solution X4.3",
+          "children": []
+        },
+        {
+          "name": "Solution X4.4",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X5 – Solutions",
+      "children": [
+        {
+          "name": "Solution X5.1",
+          "children": []
+        },
+        {
+          "name": "Solution X5.2",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Assignment X6 – Solutions",
+      "children": [
+        {
+          "name": "Solution X6.1",
+          "children": []
+        },
+        {
+          "name": "Solution X6.2",
+          "children": []
+        },
+        {
+          "name": "Solution X6.3",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
 
